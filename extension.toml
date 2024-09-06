@@ -1,0 +1,7 @@
+id = "kek-my-zed-extension"
+name = "My extension"
+version = "0.0.1"
+schema_version = 1
+authors = ["Karl Eklund <localpart@gmail.com>"]
+description = "My cool extension"
+repository = "https://github.com/kek/my-zed-extension"
